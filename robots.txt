@@ -1,1 +1,1 @@
-Sitemap: https://msure.github.io/notebooks/sitemap.xml
+Sitemap: https://blog.measureallthethin.gs/sitemap.xml
